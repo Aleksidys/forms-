@@ -1,0 +1,26 @@
+.btn-danger {
+  background-color: red; /* задаем красный цвет фона */
+  margin-top: 20px; /* добавляем отступ сверху */
+  padding: 10px 20px; /* задаем заполнение */
+  font-size: 20px; /* увеличиваем размер шрифта */
+}
+
+.popover {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 999;
+  display: block;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.popover h3 {
+  margin-top: 0;
+}
+
+.popover p {
+  margin-bottom: 0;
+}
+
